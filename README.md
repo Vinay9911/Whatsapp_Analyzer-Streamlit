@@ -1,9 +1,66 @@
-# Whatsapp_Chat_Analyzer
+Skip to content
+Navigation Menu
+Vinay9911
+/
+Whatsapp_Chat-Analyzer-Jupyter-
 
-I deployed a robust Streamlit application designed to allow users to upload WhatsApp chat files for detailed analysis. The application automatically generates a comprehensive report that provides deep insights into user interactions. It includes dynamic visualizations such as heatmaps for identifying peak messaging times and word clouds to highlight frequently used terms. Beyond these, the platform is equipped with advanced features like criminal pattern analysis using NLP techniques to detect suspicious activity, link extraction to gather URLs shared in the conversations, sentiment analysis to gauge emotional tones, and entity recognition to extract key names and places. These capabilities make it a powerful tool for both casual users and those needing detailed investigative reports.
+Type / to search
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Editing README.md in Whatsapp_Chat-Analyzer-Jupyter-
+BreadcrumbsWhatsapp_Chat-Analyzer-Jupyter-
+/
+README.md
+in
+main
 
-# USE ME👀
-🌐 whatsapp-chat-insight.streamlit.app
+Edit
+
+Preview
+Indent mode
+
+Spaces
+Indent size
+
+2
+Line wrap mode
+
+Soft wrap
+Editing README.md file contents
+Selection deleted
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+# 📊 WhatsApp Chat Analyzer
+
+I deployed a robust Streamlit application designed to allow users to upload WhatsApp chat files for detailed analysis. The application automatically generates a comprehensive report that provides deep insights into user interactions. It includes dynamic visualizations such as 📅 heatmaps for identifying peak messaging times, 🌥️ word clouds to highlight frequently used terms,amy many more such visualization. Beyond these, the platform is equipped with advanced features like 🕵️‍♂️ criminal pattern analysis using NLP techniques to detect suspicious activity, 🔗 link extraction to gather URLs shared in the conversations, 😊 sentiment analysis to gauge emotional tones, and 🗺️ detection of suspicious keywords. These capabilities make it a powerful tool for both casual users and those needing detailed investigative reports.
+
+![image](https://github.com/user-attachments/assets/7f0d1b01-92a0-40ed-9153-a990ce218d31)
+
+# USE ME 👀
+🌐 [whatsapp-chat-insight.streamlit.app](https://whatsapp-chat-insight.streamlit.app)
 
 ### How to Use:
 
@@ -14,3 +71,7 @@ I deployed a robust Streamlit application designed to allow users to upload What
 5. 📎 Select **Without Media**.  
    - 📂 A ZIP file will be downloaded.
 6. 📂 Unzip the file and upload the `.txt` file of the chat to the website and gain insights! 🔍✨
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them.
+Editing Whatsapp_Chat-Analyzer-Jupyter-/README.md at main · Vinay9911/Whatsapp_Chat-Analyzer-Jupyter-
